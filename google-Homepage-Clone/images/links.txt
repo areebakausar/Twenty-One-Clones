@@ -1,0 +1,5 @@
+Signin: https://accounts.google.com/ServiceLogin
+
+menu: https://about.google/intl/en/products/
+
+Google Search: https://www.google.com/search?q=
